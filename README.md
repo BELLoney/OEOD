@@ -58,5 +58,5 @@ url = {https://www.sciencedirect.com/science/article/pii/S0952197624003567}
 }
 ```
 ## Contact
-If you have any question, please contact liuchangai@stu.scu.edu.cn.
+If you have any questions, please contact liuchangai@stu.scu.edu.cn or yuanzhong@scu.edu.cn.
 
